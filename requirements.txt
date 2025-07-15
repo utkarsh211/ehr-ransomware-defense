@@ -1,0 +1,4 @@
+cryptography
+watchdog
+streamlit
+faker
